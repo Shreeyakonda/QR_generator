@@ -2,7 +2,6 @@
 
 A sleek, responsive **QR Code Generator** built from scratch using **HTML, CSS, and JavaScript**. It allows users to instantly generate QR codes from any link (YouTube, website, WhatsApp, etc.) and download them as PNG images.
 
-![QR Code Generator Demo](https://user-images.githubusercontent.com/your-demo-image.png)
 
 ---
 
@@ -37,15 +36,6 @@ This project demonstrates my ability to:
 | QRCode.js  | QR generation |
 | Git & GitHub | Version control and code hosting |
 
----
-
-## 📸 Preview
-
-> ✨ Here's what the app looks like:
-
-![App Screenshot](https://user-images.githubusercontent.com/your-preview.png)
-
----
 
 ## 🚀 How to Use
 
